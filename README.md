@@ -126,7 +126,7 @@ Instruments: ['exper','sibs']
 
 ```
 
-##If you want to see a complete example on a Jupyter Notebook , please see the Showcase file in the repository.
+## If you want to see a complete example on a Jupyter Notebook , please see the Showcase file in the repository.
 
 ## If you want to use it, a citation is more than welcome
 
