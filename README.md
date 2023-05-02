@@ -3,7 +3,7 @@ Linear regression models for Python
 
 ## OLS Linear regression
 
-** Overview **
+### Overview
 
 This module allows you to OLS linear regression estimation with the addition that you can control for fixed effects according to some choice variables. Moreover, you can use robust methods (heteroskedasticity and clustered std. errors) to estimate the variance covariance matrix. 
 
